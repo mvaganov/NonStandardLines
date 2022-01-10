@@ -1,9 +1,9 @@
 {
   "name": "com.codegiraffe.nonstandard.lines",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "displayName": "NonStandard Lines",
   "description": "* Lines.Make to create a Wire object.\n* Wire objects can be shaped by methods.",
-  "unity": "2017.1",
+  "unity": "2019.4",
   "keywords": [
     "library",
     "utility",
